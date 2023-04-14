@@ -1,0 +1,27 @@
+.foot-head{
+    text-align: justify;
+    margin-left: 20px;
+
+}
+.mkt{
+    margin-left: -100px;
+    margin-top: 80px;
+    color:#646874;
+}
+.crl{
+    color: #646874;
+}
+@media(min-width:320px) and (max-width: 426px){
+    .socil{
+        display: none;
+ 
+    }
+    .kkb{
+        text-align: center;
+    }
+    .kkbb{
+        padding-left: 160px;
+        margin-top: -100px;
+    }
+    
+}

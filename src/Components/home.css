@@ -1,0 +1,87 @@
+.img1{
+    margin-top: -820px;
+    margin-left: 12px;
+}
+.img2{
+    width: 830px;
+    margin-left: 12px;
+}
+.txt{
+    font-size: 70px;
+    margin-top: 150px;
+    font-weight: bolder;
+    
+}
+h1{
+    color: #0E2368;
+}
+span{
+    color: #E23744;
+}
+.prg {
+    color: #444957;
+    font-size: 18px;
+    margin-left: -20px;
+
+}
+button{
+  height: 60px;
+  width: 200px;
+  background-color: #E23744;
+  border: none;
+  color: #fff;
+
+}
+.topbtn{
+position: absolute;
+  top: 8%;
+  left :95%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #E23744;
+  color: white;
+  font-size: 16px;
+  border: 1px solid white;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  margin-left: -40px;
+
+  
+}
+
+@media(min-width:320px) and (max-width: 426px){
+    .img10{
+        display: none;
+    }
+    .txt{
+        font-size: 38px;
+    }
+    .img1{
+        margin-bottom: -410px;
+    }
+   
+    .shree{
+        flex-direction: column-reverse;
+    }
+    .topbtn{
+        width: 100px;
+        font-size: small;
+        margin-left: -40px;
+        height: 40px;
+        margin-top: -20px;
+
+    }
+    .main,.txt,.prg, .button{
+        text-align: center;
+        margin-left: -40px;
+    }
+    .prg{
+        font-size: 11px;
+    }
+    .button{
+        font-size: 12.27px;
+        height: 40px;
+        width: 100px;
+    }
+}

@@ -1,0 +1,50 @@
+h1{
+    text-align: justify;
+}
+.card-body, h4 , p{
+    text-align: justify;
+    padding: 20px;
+    margin-top: -20px;
+}
+.card-title{
+    font-weight: bolder;
+    color: #0E2368;
+}
+.bnt3{
+    width: 150px;
+    height: 50px;
+    color: #424961;
+    background-color: #fff;
+    border: 1px solid #424961;
+    margin-left: 20px;
+    font-weight: bolder;
+
+}
+.card-body{
+    line-height: normal;
+    
+}
+.card-text{
+    margin-top: -30px;
+}
+#carouselExampleIndicators2 .card{
+    border-radius: 20px;
+}
+i{
+    border: 1px solid #424961;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+@media(min-width:320px) and (max-width: 426px){
+  .latb h1{
+    font-size: 28px;
+    width: 500px;
+    text-align: justify;
+    margin-left: 10px;
+  }
+  .socil{
+    text-align: center;
+    margin-left: 200px;
+  }
+}

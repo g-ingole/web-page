@@ -1,0 +1,36 @@
+.graph{
+    width: 550px;
+    font-size: 20px;
+    text-align: justify;
+    font:Open Sans;
+    font-weight: 400;
+}
+.abt{
+font-weight: bolder;
+margin-left: 20px;
+}
+.btn1{
+    height: 50px;
+    width: 150px;
+    margin-left: 20px;
+}
+@media(min-width:320px) and (max-width: 426px){
+    .abty{
+        text-align: center;
+        
+    }
+    .mgp{
+        display: none;
+    }
+    .graph{
+        text-align: center;
+        font-size: 11px;
+        width: 320px;
+        font-weight: 400px;
+        margin-left: 20px;
+    }
+    .btn1{
+        margin-left: 100px;
+        margin-bottom: 20px;
+    }
+}
