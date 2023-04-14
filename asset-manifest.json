@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/web-page/static/css/main.065ae143.css",
+    "main.js": "/web-page/static/js/main.311b3bb6.js",
+    "static/js/787.b755f208.chunk.js": "/web-page/static/js/787.b755f208.chunk.js",
+    "static/media/Rectangle 400.png": "/web-page/static/media/Rectangle 400.e3a3f59c6b4c8f78a18e.png",
+    "static/media/pharmasict-serving-customer-drug-store 1.png": "/web-page/static/media/pharmasict-serving-customer-drug-store 1.f02ecb0f049d18b71620.png",
+    "static/media/meal-prep-ideas-846x846 2.png": "/web-page/static/media/meal-prep-ideas-846x846 2.fde3e79ee49420110104.png",
+    "static/media/grilled-tomatoes-1-846x846 1.png": "/web-page/static/media/grilled-tomatoes-1-846x846 1.5cfa6ff837658db6be07.png",
+    "static/media/grilled-tomatoes-1-846x846 1 4.png": "/web-page/static/media/grilled-tomatoes-1-846x846 1 4.dd5f73e34d10382d2472.png",
+    "static/media/meal-prep-ideas-846x846 1 5.png": "/web-page/static/media/meal-prep-ideas-846x846 1 5.f09a7b0e67b3505cbd8f.png",
+    "static/media/meal-prep-ideas-846x846 1 3.png": "/web-page/static/media/meal-prep-ideas-846x846 1 3.e42b0ef16ea1578acfb6.png",
+    "static/media/meal-prep-ideas-846x846 1 6.png": "/web-page/static/media/meal-prep-ideas-846x846 1 6.cdf354912ad77212f930.png",
+    "static/media/Screenshot_669 2.png": "/web-page/static/media/Screenshot_669 2.e25e0f021f11b2a9048f.png",
+    "index.html": "/web-page/index.html",
+    "main.065ae143.css.map": "/web-page/static/css/main.065ae143.css.map",
+    "main.311b3bb6.js.map": "/web-page/static/js/main.311b3bb6.js.map",
+    "787.b755f208.chunk.js.map": "/web-page/static/js/787.b755f208.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.065ae143.css",
+    "static/js/main.311b3bb6.js"
+  ]
+}
